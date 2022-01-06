@@ -3,3 +3,4 @@ CRUD application using PHP.CRUD is an acronym for Create, Read, Update, and Dele
 Run this application in ISS Server
 We will create a simple PHP application to perform all these operations on a MySQL database table at one place.
 The first page is Index.php (http://localhost/crud/index.php) 
+Make sure the sql databse is imported to MYSQL before executing the program.
